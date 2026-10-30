@@ -1,0 +1,6 @@
+# Local environment and generated files
+.env
+__pycache__/
+*.py[cod]
+*.db
+instance/
